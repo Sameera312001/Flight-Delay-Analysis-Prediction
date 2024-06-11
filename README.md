@@ -6,10 +6,10 @@ The aviation industry is pivotal in connecting businesses and people worldwide, 
 This project aims to analyze flight delays caused by various factors, enabling airlines to take proactive measures to minimize delays and helping passengers plan their journeys more effectively.
 
 ## Tools Used
-![Tools](Visualizations/Tools.drawio.png)
+![Tools](Tools.drawio.png)
 
 ## Workflow
-![Workflow](Visualizations/ArchitecturalDiagram.png)
+![Workflow](ArchitecturalDiagram.png)
 
 1. **Data Download**:
    - Download the data from [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7). The dataset spans 12 years, from 1987 to 1998.
